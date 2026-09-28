@@ -1,0 +1,5 @@
+# Eval init version pin (frozen-set rule: evals resolve SHA, never HEAD)
+tag=eval-v0
+sha=0c53ce59c569c6cf9901d1712afc2952b6382c18
+date=2026-09-28
+state=build-green / exactly-3-known-red (Formatter logic, cross-file Dto ripple, DI runtime)
